@@ -17,5 +17,5 @@ Just a simple app spider for douyin(Tiktok)
 ### 程序效果图
 ![结构图](https://www.weiney.com/wp-content/uploads/2019/05/2019052401144590.gif)
 <hr/>
-Blog: [www.weiney.com](https://www.weiney.com/)
+Blog: [www.weiney.com](https://www.weiney.com)
 QQ : 320212140
