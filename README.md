@@ -16,11 +16,11 @@ Just a simple app spider for douyin(Tiktok)
 <h3>支持库<h3>
   <p>见项目requirements.txt文件</p>
 <h3>项目结构<h3>
-  <img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052308000221.png" style="margin: 0 auto;" />
+  <img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052308000221.png" style="display:block; margin: 0 auto;" />
   
 <h3>预览截图</h3>
 
-<img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052313393430.gif" style="margin: 0 auto;" />
+<img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052313393430.gif" style="display:block; margin: 0 auto;" />
 
 <hr />
-<img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052401144590.gif" style="margin: 0 auto;" />
+<img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052401144590.gif" style="display:block; margin: 0 auto;" />
