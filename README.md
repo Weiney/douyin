@@ -10,13 +10,5 @@ Just a simple app spider for douyin(Tiktok)
 - 百度人脸识别SDK的调用
 - 通过抖音uid获取真实抖音号的爬虫
 
-### 目录结构
->spider
->run.py
->douyin.py
->/addons
->>fans.py
->/api
->>baidu.py
->/lib
->>shortid.py
+### 爬虫效果
+![效果图](https://cdn.weiney.com/wp-content/uploads/2019/05/2019052308000221.png)
