@@ -15,4 +15,4 @@ Just a simple app spider for douyin(Tiktok)
 </ol>
   
 <h3>项目结构<h3>
-  <img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052308000221.png">
+  <img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052308000221.png" style="margin: 0 auto;" />
