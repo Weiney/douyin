@@ -10,5 +10,12 @@ Just a simple app spider for douyin(Tiktok)
 - 百度人脸识别SDK的调用
 - 通过抖音uid获取真实抖音号的爬虫
 
-### 爬虫效果
-![效果图](https://cdn.weiney.com/wp-content/uploads/2019/05/2019052308000221.png)
+### 程序结构
+![结构图](https://cdn.weiney.com/wp-content/uploads/2019/05/2019052308000221.png)
+
+### 程序效果图
+![结构图](https://cdn.weiney.com/wp-content/uploads/2019/05/2019052313393430.gif)
+<hr/>
+
+
+
