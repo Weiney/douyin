@@ -14,4 +14,5 @@ Just a simple app spider for douyin(Tiktok)
   <li>通过抖音uid获取真实抖音号的爬虫</li>
 </ol>
   
-<h3>实现功能<h3>
+<h3>项目结构<h3>
+  <img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052308000221.png">
