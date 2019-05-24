@@ -11,12 +11,12 @@ Just a simple app spider for douyin(Tiktok)
 - 通过抖音uid获取真实抖音号的爬虫
 
 ### 目录结构
-spider
-  run.py
-  douyin.py
-  /addons
-    fans.py
-  /api
-    baidu.py
-  /lib
-    shortid.py
+>spider
+>run.py
+>douyin.py
+>/addons
+>>fans.py
+>/api
+>>baidu.py
+>/lib
+>>shortid.py
