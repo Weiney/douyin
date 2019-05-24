@@ -1,26 +1,16 @@
 # douyin
 Just a simple app spider for douyin(Tiktok)
 
-<h2>一个简单的抖音APP爬虫</h2>
+一个简单的抖音APP爬虫
+------
 
-<h3>博客地址:</h3>
-<a href="https://www.weiney.com/2072.html">https://www.weiney.com/2072.html</a>
+###博客地址:
+[https://www.weiney.com/2072.html">https://www.weiney.com/2072.html](https://www.weiney.com/2072.html">https://www.weiney.com/2072.html)
 
-<h3>实现功能<h3>
-<ol>
-  <li>appium对抖音软件的自动化控制</li>
-  <li>mitmproxy实现对手机数据包的抓取</li>
-  <li>百度人脸识别SDK的调用</li>
-  <li>通过抖音uid获取真实抖音号的爬虫</li>
-</ol>
-<h3>支持库<h3>
-  <p>见项目requirements.txt文件</p>
-<h3>项目结构<h3>
-  <img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052308000221.png" style="display:block; margin: 0 auto;" width:400px; height:auto />
-  
-<h3>预览截图</h3>
+###实现功能
 
-<img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052313393430.gif" style="display:block; margin: 0 auto;" />
+*appium对抖音软件的自动化控制
+*mitmproxy实现对手机数据包的抓取
+*百度人脸识别SDK的调用
+*通过抖音uid获取真实抖音号的爬虫
 
-<hr />
-<img src="https://www.weiney.com/wp-content/uploads/2019/05/2019052401144590.gif" style="display:block; margin: 0 auto;" />
