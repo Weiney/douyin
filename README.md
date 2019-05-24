@@ -9,4 +9,9 @@ Just a simple app spider for douyin(Tiktok)
 <h3>实现功能<h3>
 <ol>
   <li>appium对抖音软件的自动化控制</li>
+  <li>mitmproxy实现对手机数据包的抓取</li>
+  <li>百度人脸识别SDK的调用</li>
+  <li>通过抖音uid获取真实抖音号的爬虫</li>
 </ol>
+  
+<h3>实现功能<h3>
